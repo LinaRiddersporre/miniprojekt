@@ -1,0 +1,36 @@
+
+main {
+    width: 60%;
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    background-color: antiquewhite;
+    padding: 5px;
+    text-decoration: none;
+    border: 1px;
+    border-style: dotted;
+}
+
+footer {
+    text-align: center;
+    padding: 25px 15px 15px 15px;
+}
+
+.ins {
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+.mine {
+    text-align: center;
+    margin: auto;
+    width: 55%;
+}
+
+q {
+    font-size: 120%;
+}
